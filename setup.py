@@ -18,7 +18,7 @@ def readme():
         content = f.read()
     return content
 
-
+# fdsfsd
 version_file = 'mmdet/version.py'
 
 
